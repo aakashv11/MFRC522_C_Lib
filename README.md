@@ -5,4 +5,4 @@ Modified from https://github.com/asif-mahmud/MIFARE-RFID-with-AVR (created for A
 
 Used in https://github.com/aakashv11/cariomart_car
 
-Created by Aakash Venkatesan based on written by Asif Mahmud Shimon.
+Created by Aakash Venkatesan based on code written by Asif Mahmud Shimon.
